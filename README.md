@@ -1,6 +1,6 @@
 # moosedown
 
-There are a few options out there for exporting your data our of last.fm, but this is my attempt to devise a free (_as in beer_) and easy (_as in you only need to provide your own api key_) set of tools to perform the following actions:
+There are a few options out there for exporting your data out of last.fm, but this is my attempt to devise a free (_as in beer_) and easy (_as in you only need to provide your own api key_) set of tools to perform the following actions:
 1. retrieve your data from last.fm in an api-compliant, non-scrapey way
 2. store that data persistantly while allowing for updates
 3. allow you to write queries of arbitrary complexity (_one liners to complex programs_)
